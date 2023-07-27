@@ -8,3 +8,7 @@ https://cpd-cpd.itzroks-550003aw18-10a0cm-4b4a324f027aea19c5cbc0c3275c4656-0000.
 https://jenkins-ci.apps.ocp-675000m8qo-5pdc.cloud.techzone.ibm.com/
 https://cpd-cpd-instance.apps.ocp-675000m8qo-5pdc.cloud.techzone.ibm.com/
 https://github.com/IBM/MLOps-CPD
+
+
+
+admin/z3jWW4s024rL
