@@ -1,3 +1,10 @@
 https://cpd-cpd-instance.sgcpdcluster-a8432ac0494d167ced9024142889f01e-0000.jp-tok.containers.appdomain.cloud/zen/
 https://cpd-cpdmkt45.apps.cpd45top.tec.ihost.com/
 https://cpd-cpd.itzroks-550003aw18-10a0cm-4b4a324f027aea19c5cbc0c3275c4656-0000.au-syd.containers.appdomain.cloud/
+
+
+##Today
+
+https://jenkins-ci.apps.ocp-675000m8qo-5pdc.cloud.techzone.ibm.com/
+https://cpd-cpd-instance.apps.ocp-675000m8qo-5pdc.cloud.techzone.ibm.com/
+https://github.com/IBM/MLOps-CPD
