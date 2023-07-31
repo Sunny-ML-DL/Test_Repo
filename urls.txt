@@ -12,3 +12,10 @@ https://github.com/IBM/MLOps-CPD
 
 
 admin/z3jWW4s024rL
+
+
+
+
+https://cpd-cpd-instance.apps.ocp-662003pe1x-cpon.cloud.techzone.ibm.com
+admin
+cPmRRgtxSTIz
